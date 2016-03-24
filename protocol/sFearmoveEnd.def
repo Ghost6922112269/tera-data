@@ -1,8 +1,8 @@
 uint64  target
-uint32  time
+uint32  unk1
 float   x
 float   y
 float   z
 int16   w
 uint16  speed
-uint32  unk   # 25?
+uint32  unk2   # 25?
